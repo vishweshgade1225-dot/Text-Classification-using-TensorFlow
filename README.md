@@ -129,16 +129,4 @@ Run the notebook cells sequentially to preprocess the data, train the model, and
 **Vishwesh Gade**
 
 If you found this project helpful, consider giving the repository a ⭐.
-## 📊 Model Performance
 
-### Accuracy Graph
-
-![Accuracy](images/accuracy.png)
-
-### Loss Graph
-
-![Loss](images/loss.png)
-
-### Training Results
-
-![Training Results](images/training_results.png)
